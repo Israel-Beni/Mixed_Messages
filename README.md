@@ -12,7 +12,8 @@
 
 ### General info
 
-This program uses `Type.fit API`, a free quotes API. It takes the **reponse** (that is an array of quotes and authors) from this API and randomly choose one quote to display to the user each time the user runs the program.
+This program uses `Type.fit API`, a free quotes API. It takes the **response** (that is an array of quotes and authors) from this API and randomly choose one quote to display to the user each time the user runs the program.
+
 ### Technologies
 
 * JavaScript 2015 (ES6)

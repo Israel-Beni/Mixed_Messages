@@ -1,4 +1,5 @@
 //import jsdom from "jsdom";
+import fetch from 'node-fetch';
 
 // Type.fit API info
 const url = 'https://type.fit/api/quotes';

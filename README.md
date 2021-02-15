@@ -23,7 +23,8 @@ This program uses `Type.fit API`, a free quotes API. It takes the **response** (
 
 ### Setup
 
-Clone this repository to your desktop and run `npm install` command to install all the dependencies.
+* Clone this repository to your desktop and run `npm install` command to install all the dependencies.
+* Run `npm install node-fetch` in order to use the AJAX `fetch()` function to request data form `Type.fit` API.
 
 ### Inspiration
 

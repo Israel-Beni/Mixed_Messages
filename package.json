@@ -1,0 +1,24 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "Mixed Messages is an ES8 JavaScript program that helps to generate inspirational quotes. It randomly generates a new quote and output the quote every single time that the user runs it.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-Beni/Mixed_Messages.git"
+  },
+  "author": "Israel Beni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Israel-Beni/Mixed_Messages/issues"
+  },
+  "homepage": "https://github.com/Israel-Beni/Mixed_Messages#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}

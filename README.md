@@ -1,7 +1,7 @@
 
 # Mixed Messages - (Inspirational Quotes Generator)
 
-> **Mixed Messages** is an ES6 JavaScript program that helps to generate inspirational quotes. It randomly generates a new quote and output the quote every single time that the user runs it.
+> **Mixed Messages** is an ES8 JavaScript program that helps to generate inspirational quotes. It randomly generates a new quote and output the quote every single time that the user runs it.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This program uses `Type.fit API`, a free quotes API. It takes the **response** (
 ### Technologies
 
 * JavaScript 2015 (ES6)
-* Node.js
+* Node.js 14.15.4
 * Babel Transpiler (for browser compatibility)
 * [Type.fit API](https://type.fit/api/quotes) (Free Quotes API)
 

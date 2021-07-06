@@ -16,15 +16,17 @@ This program uses `Type.fit API`, a free quotes API. It takes the **response** (
 
 ### Technologies
 
-* JavaScript 2015 (ES6)
+* JavaScript 2017 (ES8)
 * Node.js 14.15.4
-* Babel Transpiler (for browser compatibility)
+* Babel Transpiler 6.14.10 (for browser compatibility)
+* JSDOM 6.14.10
 * [Type.fit API](https://type.fit/api/quotes) (Free Quotes API)
 
 ### Setup
 
 * Clone this repository to your desktop and run `npm install` command to install all the dependencies.
 * Run `npm install node-fetch` in order to use the AJAX `fetch()` function to request data form `Type.fit` API.
+* Run `npm i jsdom` to install JSDOM in order to interact with DOM.
 
 ### Inspiration
 
